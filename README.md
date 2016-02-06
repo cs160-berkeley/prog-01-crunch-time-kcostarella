@@ -1,22 +1,21 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+Crunch Time allows users to both recieve calorie information on their workouts
+and compare different exercises.
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Ko Costarella ([ko.costarella@berkeley.edu](mailto:ko.costarella@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [Crunch Time Video, Password: cs160] ( https://vimeo.com/154378849)
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
+<img src="screenshots/ScreenShot1.png" height="400" alt="Screenshot1"/>
+<img src="screenshots/ScreenShot2.png" height="400" alt="Screenshot2"/>
+<img src="screenshots/ScreenShot3.png" height="400" alt="Screenshot3"/>
+<img src="screenshots/ScreenShot4.png" height="400" alt="Screenshot4"/>
+<img src="screenshots/ScreenShot5.png" height="400" alt="Screenshot5"/>
 
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Any other support
-
-*Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
